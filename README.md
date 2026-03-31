@@ -74,8 +74,8 @@ Demonstrates dimensionality reduction from 30 features to 4 principal components
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Praveen23-kk/Unsupervised_ML/.git
+cd Unsupervised_ML
 ```
 
 **2. Install dependencies**
